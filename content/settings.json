@@ -1,22 +1,23 @@
 {
-  "store_id": 1156,
-  "name": "beautyandrage",
   "domain": "beautyandrage.netlify.app",
-  "short_name": "beautyandrage",
-  "description": "",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "clean-gray"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-beauty-and-rage-retangular.png",
+  "name": "beautyandrage",
+  "short_name": "beautyandrage",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon-beauty.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-beauty-and-rage-2020.png",
+  "store_id": 1156,
+  "description": "Acreditamos que todo presente pode ser acompanhado de um significado, por isso nossas Mandalas possuem a intenção de quem resolveu presentear.",
+  "large_icon": "/img/uploads/logo-beauty-and-rage-2020.png"
 }
