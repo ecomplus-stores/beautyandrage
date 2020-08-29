@@ -26,8 +26,8 @@
       "type": "image/png"
     }
   ],
-  "name": "beautyandrage",
-  "short_name": "beautyandrage",
+  "name": "Beauty and Rage",
+  "short_name": "Beauty and Rage",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
