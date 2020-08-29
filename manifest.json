@@ -1,27 +1,27 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.a0ba80003b3cf0f275a47885c5bf31c0.png",
+      "src": "/icon_512x512.ded8a76ec3e203b9144409dd3ed9c56c.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icon_384x384.0240fb21e4a86ec97b70a10a0be82bb6.png",
+      "src": "/icon_384x384.7a86d02d56a4d1529a6a8eada5a26a58.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/icon_192x192.d3b4a59e45ac4460fb8bca55139e47f4.png",
+      "src": "/icon_192x192.cc756f3902e38e4ecb29904cab5eef5b.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon_128x128.c58f8562c132df87ecb10c0598db083c.png",
+      "src": "/icon_128x128.7f0d3dae67e1df4c7bd89e68e97406f8.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/icon_96x96.570e1710e5824f55c3c7a5c606cbfc9c.png",
+      "src": "/icon_96x96.46dfc8c42313b0487a69deaaf7a3c30a.png",
       "sizes": "96x96",
       "type": "image/png"
     }
@@ -31,7 +31,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Acreditamos que todo presente pode ser acompanhado de um significado, por isso nossas Mandalas possuem a intenção de quem resolveu presentear.",
   "background_color": "#ffffff",
   "theme_color": "#222831"
 }
