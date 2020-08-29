@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
-    "custom": "niche-baby"
+    "bootswatch": "cerulean",
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logo-beauty-and-rage-retangular.png",
