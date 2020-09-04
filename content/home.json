@@ -16,6 +16,20 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-descubra-a-sua-mandala-3.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-japamala-3.jpg"
+        },
+        {
+          "img": "/img/uploads/banner-escolha-a-sua-mandala-3.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null
