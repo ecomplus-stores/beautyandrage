@@ -1,7 +1,7 @@
 {
   "domain": "beautyandrage.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#04b731",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "sandstone",
     "custom": "_"
